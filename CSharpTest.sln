@@ -5,39 +5,41 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionTest", "ExceptionTest.csproj", "{AF4CAC11-1ED8-457C-A2F8-D8D5754234A5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyException", ".\MyException\MyException.csproj", "{69B6DF5B-E94F-4DEC-8BEA-5061E2E7B0A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyException", "MyException\MyException.csproj", "{69B6DF5B-E94F-4DEC-8BEA-5061E2E7B0A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewFaetures", ".\NewFaetures\NewFaetures.csproj", "{67E54180-781C-4AFE-952A-318657103E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewFaetures", "NewFaetures\NewFaetures.csproj", "{67E54180-781C-4AFE-952A-318657103E7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaTest", ".\LambdaTest\LambdaTest.csproj", "{114881F1-6D93-4256-A396-F7611BB2E2DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaTest", "LambdaTest\LambdaTest.csproj", "{114881F1-6D93-4256-A396-F7611BB2E2DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTest", ".\StringTest\StringTest.csproj", "{DA27B5B8-3DEC-4623-8AB8-CC4CFDF6C741}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTest", "StringTest\StringTest.csproj", "{DA27B5B8-3DEC-4623-8AB8-CC4CFDF6C741}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQTest", ".\LINQTest\LINQTest.csproj", "{EF917CA3-070A-4048-BF5B-9E6283A0236F}"
-EndProjec
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync", ".\Sync\Sync.csproj", "{1279EA65-D95E-4C76-A1F0-F07293D3333C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQTest", "LINQTest\LINQTest.csproj", "{EF917CA3-070A-4048-BF5B-9E6283A0236F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", ".\Async\Async.csproj", "{BD75593C-825F-44CC-A466-38223A908544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sync", "Sync\Sync.csproj", "{1279EA65-D95E-4C76-A1F0-F07293D3333C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintPrimesInRanges", ".\PrintPrimesInRanges\PrintPrimesInRanges.csproj", "{0935FFAA-5031-4D68-97B7-BDB4AB8B8882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Async", "Async\Async.csproj", "{BD75593C-825F-44CC-A466-38223A908544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintPrimesInRangeAsync", ".\PrintPrimesInRangeAsync\PrintPrimesInRangeAsync.csproj", "{8994DC36-BCB2-4C5E-8D93-726671F7173B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintPrimesInRanges", "PrintPrimesInRanges\PrintPrimesInRanges.csproj", "{0935FFAA-5031-4D68-97B7-BDB4AB8B8882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoThreadSafety", ".\NoThreadSafety\NoThreadSafety.csproj", "{05FC3822-C09E-4AC8-AF58-51B3EA9E4E5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintPrimesInRangeAsync", "PrintPrimesInRangeAsync\PrintPrimesInRangeAsync.csproj", "{8994DC36-BCB2-4C5E-8D93-726671F7173B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafety", ".\ThreadSafety\ThreadSafety.csproj", "{BEF7B0C6-D65E-404D-BD46-4F3691F32F75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoThreadSafety", "NoThreadSafety\NoThreadSafety.csproj", "{05FC3822-C09E-4AC8-AF58-51B3EA9E4E5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncandAwait", ".\AsyncandAwait\AsyncandAwait.csproj", "{1D676E43-3417-454D-BCD9-4C8D68B6FEB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSafety", "ThreadSafety\ThreadSafety.csproj", "{BEF7B0C6-D65E-404D-BD46-4F3691F32F75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadandTask", ".\ThreadandTask\ThreadandTask.csproj", "{8364C8EE-7CDE-41D6-B730-5BECFDBD2964}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncandAwait", "AsyncandAwait\AsyncandAwait.csproj", "{1D676E43-3417-454D-BCD9-4C8D68B6FEB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefoutTest", ".\RefoutTest\RefoutTest.csproj", "{6A074D12-4EC8-4082-BD4F-ABDEA13A4DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadandTask", "ThreadandTask\ThreadandTask.csproj", "{8364C8EE-7CDE-41D6-B730-5BECFDBD2964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTest", ".\GenericTest\GenericTest.csproj", "{4B6159B8-598C-4079-9BEC-837DF76368C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefoutTest", "RefoutTest\RefoutTest.csproj", "{6A074D12-4EC8-4082-BD4F-ABDEA13A4DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorTest", ".\IteratorTest\IteratorTest.csproj", "{A8CD156F-4757-4C17-AFDD-8B71A463C2CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericTest", "GenericTest\GenericTest.csproj", "{4B6159B8-598C-4079-9BEC-837DF76368C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTest", ".\EventTest\EventTest.csproj", "{B70F65AE-55D1-454F-9246-9CD8A1873554}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorTest", "IteratorTest\IteratorTest.csproj", "{A8CD156F-4757-4C17-AFDD-8B71A463C2CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventTest", "EventTest\EventTest.csproj", "{B70F65AE-55D1-454F-9246-9CD8A1873554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTest", ".\CodeTest\CodeTest.csproj", "{C29E88EC-CE02-4CF5-97B3-1430245DFB24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -191,6 +193,14 @@ Global
 		{B70F65AE-55D1-454F-9246-9CD8A1873554}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B70F65AE-55D1-454F-9246-9CD8A1873554}.Release|x86.ActiveCfg = Release|Any CPU
 		{B70F65AE-55D1-454F-9246-9CD8A1873554}.Release|x86.Build.0 = Release|Any CPU
+		{C29E88EC-CE02-4CF5-97B3-1430245DFB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29E88EC-CE02-4CF5-97B3-1430245DFB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29E88EC-CE02-4CF5-97B3-1430245DFB24}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C29E88EC-CE02-4CF5-97B3-1430245DFB24}.Debug|x86.Build.0 = Debug|Any CPU
+		{C29E88EC-CE02-4CF5-97B3-1430245DFB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29E88EC-CE02-4CF5-97B3-1430245DFB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29E88EC-CE02-4CF5-97B3-1430245DFB24}.Release|x86.ActiveCfg = Release|Any CPU
+		{C29E88EC-CE02-4CF5-97B3-1430245DFB24}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

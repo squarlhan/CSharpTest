@@ -8,7 +8,7 @@ namespace Sync
         {
             int n = int.Parse(Console.ReadLine());
             PrintNumbersInRange(n);
-            Console.WriteLine("Main thread is done");
+            Console.WriteLine("Main thread is done！");
         }
 
         private static void PrintNumbersInRange(int bound)
